@@ -1,6 +1,8 @@
 # ApacheKafka-Nodejs
 Cómo comenzar
+
 Requisitos previos
+
 Asegúrate de tener instalado lo siguiente en tu sistema:
 
 Node.js (versión 18 superior), Docker
